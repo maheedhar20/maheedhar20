@@ -97,18 +97,16 @@ Explored machine-learning and deep-learning approaches for **EEG-based emotion r
 
 ---
 
-## 🏆 Competitive Programming
+## 🏆 Competitive Programming & Achievements
 
 | Platform | Profile | Achievement |
 | --- | --- | --- |
 | 🟡 **LeetCode** | [Maheedhar_Bobbala](https://leetcode.com/u/Maheedhar_Bobbala/) | **Knight · 2100+** |
 | 🔵 **Codeforces** | [Maheedhar](https://codeforces.com/profile/Maheedhar) | **Specialist · 1561** |
+| 🏆 **ICPC** | — | **AIR 139 · Asia West Preliminary** |
 
-- **ICPC Regionalist '25** — AIR 139 in the ICPC Asia West Preliminary Contest
-- **Flipkart Grid 6.0** — Top 60 teams in the final round
+- **Flipkart Grid 6.0** — Top 60 teams in the final round after delivering Smart Vision Quality control system
 - **Adobe Gensolve** — Top 1%
-- **LeetCode** — Knight
-- **Codeforces** — Specialist
 
 ---
 
@@ -137,12 +135,6 @@ I'm always curious about **how practical systems are built at scale** and enjoy 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Maheedhar-Bobbala/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/maheedhar20)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Maheedhar_Bobbala/)
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Maheedhar)
 
 📧 **mahidharbobbala@gmail.com**
 
