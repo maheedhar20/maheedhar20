@@ -57,7 +57,7 @@ I enjoy building and understanding systems across **backend engineering, cloud i
 ## 💼 Experience
 
 ### Software Engineer — Cisco
-**2026 – Present · Bangalore, India**
+**Aug 2026 – Present · Bangalore, India**
 
 Working on **Cisco Secure Access** with the **Clientless ZTNA team**, focusing on extending Zero Trust capabilities to **MCP servers, AI Agents, and LLM-based applications**.
 
